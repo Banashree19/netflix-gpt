@@ -8,15 +8,15 @@
 -Sign IN/Sign Up Form
 -Redirect to Browse Page
 -Browse(after authentication)
----Header
----Main Movie
----Trailer in Background
----Title in Description
----Movie Suggestions
----Movie List & N
+-Header
+-Main Movie
+-Trailer in Background
+-Title in Description
+-Movie Suggestions
+-Movie List & N
 
----Netflix GPT
------sEARCH Bar
-------Movie Suggestion
+-Netflix GPT
+-sEARCH Bar
+-Movie Suggestion
 
 
